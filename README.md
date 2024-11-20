@@ -1,8 +1,6 @@
 # Learning-Python-2024-2025
 
-Each week, we will attach the
-- Slideshow
-- Problem Set
-- Leaderboard
-
-Once the solutions are taken up in the next meeting, they will also be attached here
+Each Weak, the following will be realeased
+- Solutions From Previous Week
+- Current Week's Lesson
+- Current Week's Problem Set
