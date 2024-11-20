@@ -1,4 +1,4 @@
-Input and Output Projects
+Input and Output Assignment
 
 Project: Write a program that asks the user for their age and then prints a message stating how many years it will be until they turn 100.
 
