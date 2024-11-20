@@ -1,4 +1,4 @@
-# Learning-Python-2024-2025
+# Learning Python 2024/2025
 
 Each Week, the following will be realeased
 - Solutions From Previous Week
