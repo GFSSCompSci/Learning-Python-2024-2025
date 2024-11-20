@@ -1,8 +1,0 @@
-Data Types Assignment
-
-Project: Write a program that converts a temperature from Celsius to Fahrenheit.
-
-Steps:
-Input the temperature in Celsius from the user.
-Convert the temperature using the formula F = C * 9/5 + 32.
-Print the temperature in Fahrenheit.

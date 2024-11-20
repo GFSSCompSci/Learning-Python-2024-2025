@@ -1,7 +1,0 @@
-String Indexing Assignments
-Project: Create a program that extracts and prints the first, middle, and last characters of a given string.
-
-Steps:
-Input a string from the user.
-Use string indexing to get the first, middle, and last characters.
-Print the extracted characters.
