@@ -1,0 +1,8 @@
+Concatenation Assignments
+
+Project: Create a program that asks for the user's first and last name, then prints their full name.
+
+Steps:
+Input the first and last names separately from the user.
+Concatenate the two names with a space in between.
+Print the full name
